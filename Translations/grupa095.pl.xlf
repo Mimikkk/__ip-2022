@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pl" original="grupa095">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1193173812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicle</source>
+          <target>Pojazd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3850414055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Manufacturing</source>
+          <target>Data utworzenia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Date of Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Opis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 1612702897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List Price</source>
+          <target>Lista cen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field List Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <target>Model</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 532835786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <target>Transmisja</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Transmission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 532835786 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automatic,4-Speed,5-Speed</source>
+          <target>Automatyczna,4-biegowa,5-biegowa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Transmission - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3582544635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VIN</source>
+          <target>VIN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field VIN - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

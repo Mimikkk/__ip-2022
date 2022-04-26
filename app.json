@@ -33,5 +33,8 @@
     "includeSourceInSymbolFile": false
   },
   "target": "OnPrem",
-  "runtime": "8.0"
+  "runtime": "8.0",
+  "features": [
+    "TranslationFile"
+  ]
 }
