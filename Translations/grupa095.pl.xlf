@@ -3,11 +3,17 @@
   <file datatype="xml" source-language="en-US" target-language="pl" original="grupa095">
     <body>
       <group id="body">
-                <trans-unit id="Table 1521186848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 1521186848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Transaction</source>
           <target>Tranzakcje Sprzedaży</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1521186848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Transaction</source>
+          <target>Lista tranzakcji Sprzedaży</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Transaction - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1521186848 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Amount</source>
@@ -29,6 +35,7 @@
         </trans-unit>
         <trans-unit id="Table 1521186848 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Salesperson Code</source>
+          <target>Kod Sprzedawcy</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field Salesperson Code - Property Caption</note>
         </trans-unit>
