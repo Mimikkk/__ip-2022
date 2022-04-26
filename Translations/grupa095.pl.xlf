@@ -11,7 +11,7 @@
         </trans-unit>
         <trans-unit id="Table 1193173812 - Field 3850414055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Date of Manufacturing</source>
-          <target>Data utworzenia</target>
+          <target>Data produkcji</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Date of Manufacturing - Property Caption</note>
         </trans-unit>
@@ -23,7 +23,7 @@
         </trans-unit>
         <trans-unit id="Table 1193173812 - Field 1612702897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>List Price</source>
-          <target>Lista cen</target>
+          <target>Cena</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field List Price - Property Caption</note>
         </trans-unit>
@@ -50,6 +50,12 @@
           <target>VIN</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field VIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 405542470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicle List</source>
+          <target>Lista pojazdów</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicle List - Property Caption</note>
         </trans-unit>
       </group>
     </body>
