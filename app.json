@@ -1,0 +1,37 @@
+{
+  "id": "e4e0c568-664b-4128-bf44-cbfbb11b698f",
+  "name": "grupa095",
+  "publisher": "Daniel Zdancewicz [145317] - Adam Gorgoń [145278]",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "a41facb4-aa1f-4f4b-a6d5-a574d9a33911",
+      "publisher": "IT.integro sp. z o.o.",
+      "name": "Polish Functionality - Starter Pack",
+      "version": "1.0.1.150"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "target": "OnPrem",
+  "runtime": "8.0"
+}
