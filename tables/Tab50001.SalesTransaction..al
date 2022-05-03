@@ -11,6 +11,7 @@ table 50001 "Sales Transaction"
         field(20; "Salesperson Code"; Code[10])
         {
             Caption = 'Salesperson Code';
+            TableRelation = "Salesperson/Purchaser" where("Commission %" = filter(> 0));
         }
         field(30; Type; Option)
         {
